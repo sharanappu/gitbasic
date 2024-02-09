@@ -1,4 +1,0 @@
-function k() {
-
-    alert('Hello!');
-}

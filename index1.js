@@ -1,4 +1,0 @@
-function h() {
-
-    alert('hiiii!');
-}
